@@ -91,14 +91,5 @@ Our queries were thoroughly analyzed, optimized, and documented in [Milestone2.p
      ```
    - Execute the analysis using `script.py` or open `script.ipynb` for detailed analysis.
 
-## Contributors
-- **Ranadeep Mahendra Prathapagiri** - [ranadeep@buffalo.edu](mailto:ranadeep@buffalo.edu)
-- **Sri Gayathri Sahithi Morapakala** - [srigayat@buffalo.edu](mailto:srigayat@buffalo.edu)
-- **Sri Charan Byreddy** - [sbyreddy@buffalo.edu](mailto:sbyreddy@buffalo.edu)
 
-## License
-[MIT License](LICENSE)
-
----
-Feel free to contribute, suggest improvements, or raise issues. Let's make sports data analysis seamless together!
 
