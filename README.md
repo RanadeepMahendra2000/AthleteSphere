@@ -70,7 +70,7 @@ We executed and demonstrated various SQL queries on `normalize.db` using Postgre
 - Optimize query performance with indexing techniques.
 
 ## Results and Report
-Our queries were thoroughly analyzed, optimized, and documented in [Report.pdf](Report.pdf). The report details the database design process, normalization, indexing strategies, and insights derived from the data.
+Our queries were thoroughly analyzed, optimized, and documented in [Report.pdf](docs/Report.pdf).  The report details the database design process, normalization, indexing strategies, and insights derived from the data.
 
 ## How to Set Up Locally
 1. **Clone the Repository:**
